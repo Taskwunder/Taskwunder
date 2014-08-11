@@ -1,0 +1,11 @@
+c:\github\Taskwunder\DbClasses\bin\Debug\DbClasses.dll
+c:\github\Taskwunder\DbClasses\bin\Debug\DbClasses.pdb
+c:\github\Taskwunder\DbClasses\obj\Debug\DbClasses.dll
+c:\github\Taskwunder\DbClasses\obj\Debug\DbClasses.pdb
+c:\github\Taskwunder\DbClasses\bin\Debug\DbClasses.dll.config
+c:\github\Taskwunder\DbClasses\bin\Debug\EntityFramework.dll
+c:\github\Taskwunder\DbClasses\bin\Debug\EntityFramework.SqlServer.dll
+c:\github\Taskwunder\DbClasses\bin\Debug\EntityFramework.xml
+c:\github\Taskwunder\DbClasses\bin\Debug\EntityFramework.SqlServer.xml
+c:\github\Taskwunder\DbClasses\bin\Debug\de\EntityFramework.resources.dll
+c:\github\Taskwunder\DbClasses\bin\Debug\de\EntityFramework.SqlServer.resources.dll
