@@ -9,7 +9,7 @@ namespace DbClasses.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(DbClasses.TWContext context)

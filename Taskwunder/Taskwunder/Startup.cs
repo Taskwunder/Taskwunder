@@ -15,20 +15,8 @@ namespace Taskwunder
         {
             ConfigureAuth(app);
 
-/*            using (var context = new TWContext())
-            {
-                context.Users.Add(new User()
-                {
-                    Firstname = "Jürgen",
-                    Lastname = "Schöner",
-                    Email = "juergen.schoener@gmx.net",
-                    Company = "JS AG",
-                });
 
-                context.SaveChanges();
 
-            }
- */
         }
     }
 }

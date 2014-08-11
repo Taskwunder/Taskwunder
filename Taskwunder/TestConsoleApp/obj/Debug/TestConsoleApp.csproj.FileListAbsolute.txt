@@ -1,0 +1,14 @@
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\DbClasses.dll
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.dll
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\DbClasses.pdb
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.xml
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\de\EntityFramework.resources.dll
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
