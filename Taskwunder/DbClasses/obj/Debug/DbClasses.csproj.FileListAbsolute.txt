@@ -21,3 +21,15 @@ D:\Programmierung\Taskwunder\Taskwunder\DbClasses\bin\Debug\de\EntityFramework.S
 D:\Programmierung\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.csprojResolveAssemblyReference.cache
 D:\Programmierung\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.dll
 D:\Programmierung\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\DbClasses.dll.config
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\DbClasses.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\DbClasses.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\EntityFramework.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\EntityFramework.xml
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.csprojResolveAssemblyReference.cache
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\DbClasses\obj\Debug\DbClasses.pdb

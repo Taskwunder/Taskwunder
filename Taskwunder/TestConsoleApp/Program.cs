@@ -15,8 +15,8 @@ namespace TestConsoleApp
             {
                 context.Users.Add(new User()
                 {
-                    Firstname = "Jürgen",
-                    Lastname = "Schöner",
+                    Firstname = "Jakob",
+                    Lastname = "Hager",
                     Email = "juergen.schoener@gmx.net",
                     Company = "JS AG",
                 });

@@ -12,3 +12,17 @@ D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\de\EntityFramew
 D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
 D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.exe
 D:\Programmierung\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\DbClasses.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\DbClasses.pdb
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\dtc104211\Documents\GitHub\Taskwunder\Taskwunder\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
